@@ -232,10 +232,6 @@
             color: #3030ff;
         }
 
-        .active a {
-            font-weight: bold;
-            color: #ffcc00;
-        }
     </style>
 
     <!-- JavaScript Libraries -->
